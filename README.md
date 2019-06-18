@@ -1,4 +1,4 @@
-0404537438# rEFInd Theme Circle
+# rEFInd Theme Circle
 
 A simple rEFInd theme for people who like circles
 
