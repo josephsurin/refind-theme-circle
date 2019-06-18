@@ -1,4 +1,4 @@
-# rEFInd Theme Circle
+0404537438# rEFInd Theme Circle
 
 A simple rEFInd theme for people who like circles
 
@@ -20,7 +20,7 @@ A simple rEFInd theme for people who like circles
 2. Remove unused directories
 
    ```
-   rm -r ./refind-theme-circle.git/{screenshots,.git}
+   rm -r ./refind-theme-circle/{screenshots,.git}
    ```
 
 3. Copy the theme to your rEFInd directory in your EFI partition (`lsblk` and `mount` may be helpful). You will need root for this. For example, if my rEFInd directory is located at `/boot/efi/EFI/refind/`:
