@@ -2,9 +2,9 @@
 
 A simple rEFInd theme for people who like circles
 
-![os_select](./screenshots/os_select.bmp)
+![os_select](./screenshots/os_select.png)
 
-![tool_select](./screenshots/tool_select.bmp)
+![tool_select](./screenshots/tool_select.png)
 
 ### F10 takes a screenshot and places it in your _`esp`_ mount point
 
